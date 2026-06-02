@@ -1,8 +1,5 @@
 # blossom-breeze
-A web app for the business, Blossom Breeze. This business sells post-surgery apparel.
-
-Project Title
-A modern e-commerce platform built on Laravel 12 and Bazar, featuring a flexible frontend powered by Livewire and Vue.js. 
+A web app for the business, Blossom Breeze. This business sells post-surgery apparel built on Laravel 12 and Bazar, featuring a flexible frontend powered by Livewire and Vue.js. 
 
 🚀 Tech Stack
 + Backend: Laravel 12+, PHP 8.4+ (Required by Bazar v1.5+)
