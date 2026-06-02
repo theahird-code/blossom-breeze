@@ -8,3 +8,10 @@ A web app for the business, Blossom Breeze. This business sells post-surgery app
 + Database: MySQL 8.0+ / MariaDB 10.6+
 + Payments: Stripe, PayPal (Custom Bazar Gateways)
 + Assets & Styling: Vite, Tailwind CSS 3+, Bootstrap 5 (Optional) 
+
++ Using Laravel and React
+cd blossom-breeze
+npm install && npm run build
+composer run dev
+
+Port 8000
